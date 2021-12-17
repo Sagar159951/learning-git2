@@ -2,11 +2,8 @@
 using namespace std;
 
 int main(){
-    cout<<"branch dev";
-    cout<<"test2.cpp";
-
     cout<<"branch feature1";
-    cout<<"unmodified";
+    cout<<"test3.cpp";
 
     return 0;
 }
